@@ -13,3 +13,4 @@
 - Tools
 - Resources
 - Prompt templates
+- Dockerfiles
