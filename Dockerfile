@@ -7,4 +7,4 @@ RUN npm install -g @playwright/mcp@latest
 
 EXPOSE 8001
 
-CMD ["npx", "@playwright/mcp@latest", "--host", "0.0.0.0", "--port", "8001"]
+CMD ["npx", "@playwright/mcp@latest", "--host", "0.0.0.0", "--port", "8001", "--isolated"]
